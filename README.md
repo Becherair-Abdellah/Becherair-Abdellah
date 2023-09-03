@@ -9,13 +9,13 @@
 
 - 🔭  Computer Science Sophomore - **2023**
 
-- 🔭 I’m currently working on **Company web application**
+- 🔭 I’m currently working on **azad Company as Frontend engineer**
 
 - 🌱 I’m currently learning **next js**
 
-- 👨‍💻 All of my projects are available at [www.commingsoon.xyz](https://becherair-abdellah.github.io/MY_PORTFOLIO/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://becherair-abdellah.github.io/MY_PORTFOLIO/)
 
-- 📝 I regularly write articles on [www.blog.abc](www.blog.abc)
+- 📝 I regularly write articles on [my portfolio](https://becherair-abdellah.github.io/MY_PORTFOLIO/)
 
 - 💬 Ask me about **react js , next js**
 
