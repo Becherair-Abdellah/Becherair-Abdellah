@@ -9,11 +9,11 @@
 
 - 🔭  Computer Science Sophomore - **2023**
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **Company web application**
 
-- 🌱 I’m currently learning **next js, gatsby**
+- 🌱 I’m currently learning **next js**
 
-- 👨‍💻 All of my projects are available at [www.commingsoon.xyz](www.commingsoon.xyz)
+- 👨‍💻 All of my projects are available at [www.commingsoon.xyz](https://becherair-abdellah.github.io/MY_PORTFOLIO/)
 
 - 📝 I regularly write articles on [www.blog.abc](www.blog.abc)
 
