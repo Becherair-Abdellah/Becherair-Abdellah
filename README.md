@@ -9,7 +9,7 @@
 
 - 🔭  Computer Science Sophomore - **2023**
 
-- 🔭 I’m currently working on **azad Company as Frontend engineer**
+- 🔭 I’m currently working on **Ayrime Company as Frontend engineer**
 
 - 🌱 I’m currently learning **next js**
 
